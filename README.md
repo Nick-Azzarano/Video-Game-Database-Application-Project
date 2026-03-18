@@ -1,6 +1,7 @@
 # Video Game Database Application
 ### Nick Azzarano
 ### Aug 2023 - Dec 2023
+(This repository is only a copy of the original that was used to develop and submit this project.)
 
 # Project Overview
 A video game library application with social elements. (Like if steam had a command line interface). The Application is written entirely in Python and the relational database system used is PostgreSQL. Users can specify which games they own, "play" any game for some amount of time, follow other users, and see recommendations based on their library.
