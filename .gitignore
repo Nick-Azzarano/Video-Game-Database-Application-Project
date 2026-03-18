@@ -1,0 +1,15 @@
+usernames.txt
+passwords.txt
+get-pip.py
+
+database-application/__pycache__/s
+database-application/__pycache__/collections.cpython-312.pyc
+database-application/__pycache__/collectionsFeature.cpython-312.pyc
+database-application/__pycache__/rates.cpython-312.pyc
+database-application/__pycache__/collectionsFeature.cpython-311.pyc
+database-application/__pycache__/follow.cpython-311.pyc
+database-application/__pycache__/rates.cpython-311.pyc
+database-application/__pycache__/
+
+database-application/username.txt
+database-application/password.txt
